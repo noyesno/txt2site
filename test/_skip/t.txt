@@ -1,0 +1,8 @@
+---
+title: this is a test doc
+author: fun-author
+---
+
+def
+
+def [= title] by [= author] de def \[= meta(B)] de

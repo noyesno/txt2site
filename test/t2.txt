@@ -1,0 +1,7 @@
+A: 3
+B: d
+---
+
+def
+
+def [= meta(B)] de
